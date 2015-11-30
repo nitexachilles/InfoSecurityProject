@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ISurf.Master.cs" Inherits="InfoSecurityProject.Site1" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Registration.Master.cs" Inherits="InfoSecurityProject.Site1" %>
 
 <!DOCTYPE html>
 
