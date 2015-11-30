@@ -1,0 +1,10 @@
+﻿body 
+{
+    background-image: url('../images/ISurf.jpg');
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-position:repeat-x;
+    background-size: 100%;
+}
+
+

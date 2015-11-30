@@ -1,6 +1,7 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Registration.Master.cs" Inherits="InfoSecurityProject.Site1" %>
 
 <!DOCTYPE html>
+<link rel="stylesheet" href="/css/RegistrationMaster.css" type="text/css" />
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
@@ -12,7 +13,6 @@
     <form id="form1" runat="server">
     <div>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-            <asp:Image ID="BackgroundImage" runat="server" ImageUrl="~/Images/ISurf.jpg" />
         </asp:ContentPlaceHolder>
     </div>
     </form>
