@@ -12,7 +12,7 @@
     <form id="form1" runat="server">
     <div>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-        <h1>Test</h1>
+            <asp:Image ID="BackgroundImage" runat="server" ImageUrl="~/Images/ISurf.jpg" />
         </asp:ContentPlaceHolder>
     </div>
     </form>
